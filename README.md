@@ -1,2 +1,1 @@
-# Serpens-South-Filaments
-About An interactive 3D visualisation of filaments present in the Serpens South molecular cloud.
+Access the 3D plot by clicking on the following link. https://imbunty575.github.io/Serpens-South-Filaments/3d_plot_serpens_all_files_colored_final.html
